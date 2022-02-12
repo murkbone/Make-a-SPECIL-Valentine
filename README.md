@@ -2,4 +2,4 @@
 ###### logo created by [cupcalico](https://twitter.com/cupcalico)
 
 # Make a SPECIL Valentine
-# A dating simulator by meowfluff
+## A dating simulator by meowfluff
