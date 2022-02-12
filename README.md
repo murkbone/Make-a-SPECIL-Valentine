@@ -2,4 +2,6 @@
 ###### logo created by [cupcalico](https://twitter.com/cupcalico)
 
 # Make a SPECIL Valentine
-## A dating simulator by meowfluff
+## A text-based dating sim by meowfluff
+## Fully coded in 3 days for Valentine's Day 2022
+## Only works on Windows
