@@ -4,4 +4,14 @@
 # Make a SPECIL Valentine
 ### A text-based dating sim by meowfluff
 ### Fully coded in 3 days for Valentine's Day 2022
-### Only works on Windows
+
+Welcome to Make a SPECIL Valentine!
+After dozens of decades of analysing human romance, we have created a perfect way to simulate a meaningful relationship!
+Simply download the game here, run the program and enjoy the fully accurate experience of dating someone!
+You are able to date men, women, everybody and nobody. Everybody is welcome!
+
+There are currently 5 unlockable "endings" to the game, along with an erase save data feature,
+pronouns and preference selector. Plus, tons of dialogue and choices! It's fun for the whole family!
+
+Created by tobi (@meowfluff)
+https://twitter.com/meowfIuff
